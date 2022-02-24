@@ -5,7 +5,7 @@
 
 ***Idioma***
 - 🇪🇸 Español
-- [![united-kingdom](https://user-images.githubusercontent.com/55488676/152346624-aa99712d-5039-4382-af6e-90f71fe483c9.png) Inglés](https://github.com/Danilooo99/Prompt-Style/blob/master/README.md)
+- [![united-kingdom](https://user-images.githubusercontent.com/55488676/152346624-aa99712d-5039-4382-af6e-90f71fe483c9.png) Inglés](./README.en.md)
 
 
 <br />
